@@ -1,4 +1,4 @@
-#Diabetes Data Analysis
+Diabetes Data Analysis
 
 A data analysis project focused on exploring and understanding patterns in diabetes-related health data using Python and data science techniques.
 
